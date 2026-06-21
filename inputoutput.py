@@ -1,0 +1,8 @@
+# x=int(input("enter num1:" ))
+# y=int(input("enter num2:" ))
+# print(x&y)
+# print(x|y)
+# print(~x)
+# print(x^y)
+# print(x<<y)
+# print(x>>y)
